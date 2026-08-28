@@ -7,4 +7,5 @@ This tackles a simple input-and-output code for square and square root values. Y
 
 
 **README Version History:**
+<br>
 August 28, 2026 - Uploaded 001 Square and Square Roots

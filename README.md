@@ -3,7 +3,7 @@ This repository contains mathematical formulas that I learned to code. I will ad
 
 ## 001 Square and Square Roots is Available!
 <br>
-This tackles a simple input-and-output code for square and square root values. You may download the file [001 Square and Square Roots](and). 
+This tackles a simple input-and-output code for square and square root values. 
 
 ## 002 Physics Calculus: Position, Velocity, and Acceleration is Available!
 <br>

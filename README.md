@@ -9,6 +9,7 @@ This tackles a simple input-and-output code for square and square root values. Y
 <br>
 This is my first time using SymPy to work with calculus equations. 
 
+<br>
 **README Version History:**
 <br>
 August 28, 2026 - Uploaded 001 Square and Square Roots
